@@ -1,6 +1,5 @@
 Welcome to Axa Suite!
-
-
+Axa Suite is a repertoire of programs designed for (but not exclusive to) AxaOS. 
 
 ==================
    ___           
@@ -10,7 +9,6 @@ Welcome to Axa Suite!
 
 ==================
 
-Axa Suite is a repertoire of programs designed for (but not exclusive to) AxaOS. 
 Programs include:
 - axinit (init system)
 - package manager
