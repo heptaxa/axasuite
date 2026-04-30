@@ -1,5 +1,7 @@
 Welcome to Axa Suite!
 
+
+
 ==================
    ___           
   / _ |__ _____ _
@@ -8,4 +10,9 @@ Welcome to Axa Suite!
 
 ==================
 
-Axa Suite is a repertoire of programs designed for (but not exclusive to) Axa Linux.
+Axa Suite is a repertoire of programs designed for (but not exclusive to) AxaOS. 
+Programs include:
+- axinit (init system)
+- package manager
+- axawm
+- axatools (CLI tools such as aca, amatrix, and more)
